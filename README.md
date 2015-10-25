@@ -1,6 +1,6 @@
 # DropboxAssignment
 
-How many hours did it take to complete? Around 15 hours, including tutorial review and demo practice. Thanks to Tim and other students for additional help :-)
+How many hours did it take to complete? Around 15 hours, including time spent on reviewing tutorials, and practicing with demos. Thanks to Tim and other students for additional help :-)
 
 Which required and optional stories have you completed? All project requirements.
 
