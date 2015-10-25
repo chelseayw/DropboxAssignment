@@ -943,7 +943,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="j2G-eX-Nas" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1325" y="396"/>
+            <point key="canvasLocation" x="1337" y="404"/>
         </scene>
     </scenes>
     <resources>
@@ -973,13 +973,13 @@
         <image name="welcome3" width="320" height="568"/>
     </resources>
     <inferredMetricsTieBreakers>
+        <segue reference="R1c-qD-w11"/>
+        <segue reference="blT-vY-scd"/>
+        <segue reference="sZy-Xf-lhC"/>
         <segue reference="lhG-Qi-PeP"/>
         <segue reference="cDS-aC-Jga"/>
-        <segue reference="blT-vY-scd"/>
-        <segue reference="R1c-qD-w11"/>
-        <segue reference="QpV-fb-KuC"/>
-        <segue reference="yB2-sG-W8k"/>
         <segue reference="nbh-a5-2wj"/>
-        <segue reference="ttB-O7-gVV"/>
+        <segue reference="yB2-sG-W8k"/>
+        <segue reference="QpV-fb-KuC"/>
     </inferredMetricsTieBreakers>
 </document>
