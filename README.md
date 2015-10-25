@@ -24,4 +24,4 @@ Which required and optional stories have you completed? All project requirements
 
   * The user can log out from the Settings screen.
 
-![Alt text](https://raw.githubusercontent.com/chelseayw/DropboxAssignment/master/DropboxAssignment.gif)
+![Alt text](https://raw.githubusercontent.com/chelseayw/DropboxAssignment/master/DropboxAssignment_Chelsea.gif)
