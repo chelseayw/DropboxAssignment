@@ -1,21 +1,20 @@
 //
-//  SettingsViewController.swift
+//  Settings2ViewController.swift
 //  dropbox
 //
-//  Created by Chelsea Wang on 10/22/15.
+//  Created by Chelsea Wang on 10/25/15.
 //  Copyright © 2015 Chelsea Wang. All rights reserved.
 //
 
 import UIKit
 
-class SettingsViewController: UIViewController {
-    
+class Settings2ViewController: UIViewController {
+
     @IBOutlet weak var scrollView: UIScrollView!
     @IBOutlet weak var imageView: UIImageView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
 
         scrollView.contentSize = imageView.frame.size
         

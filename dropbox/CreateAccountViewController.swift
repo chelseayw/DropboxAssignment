@@ -9,13 +9,17 @@
 import UIKit
 
 class CreateAccountViewController: UIViewController {
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+    
 //        performSegueWithIdentifier("createaccountSegue", sender: self)
 
         // Do any additional setup after loading the view.
+    }
+    
+    @IBAction func backButtonDidPress(sender: AnyObject) {
+        navigationController?.popViewControllerAnimated(true)
     }
 
     override func didReceiveMemoryWarning() {

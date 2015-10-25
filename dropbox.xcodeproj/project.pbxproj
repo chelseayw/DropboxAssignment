@@ -19,6 +19,8 @@
 		57C3B6DD1BD7780500C930C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57C3B6DB1BD7780500C930C9 /* LaunchScreen.storyboard */; };
 		57C3B6E81BD7780500C930C9 /* dropboxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57C3B6E71BD7780500C930C9 /* dropboxTests.swift */; };
 		57C3B6F31BD7780500C930C9 /* dropboxUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57C3B6F21BD7780500C930C9 /* dropboxUITests.swift */; };
+		57DD5BCD1BDCD54A000F8017 /* Settings2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57DD5BCC1BDCD54A000F8017 /* Settings2ViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		57DD5BCF1BDCD7BB000F8017 /* ExistingPhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57DD5BCE1BDCD7BB000F8017 /* ExistingPhotosViewController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +59,8 @@
 		57C3B6EE1BD7780500C930C9 /* dropboxUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dropboxUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		57C3B6F21BD7780500C930C9 /* dropboxUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dropboxUITests.swift; sourceTree = "<group>"; };
 		57C3B6F41BD7780500C930C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57DD5BCC1BDCD54A000F8017 /* Settings2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Settings2ViewController.swift; sourceTree = "<group>"; };
+		57DD5BCE1BDCD7BB000F8017 /* ExistingPhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExistingPhotosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +95,9 @@
 				574A848A1BD8B36400B029AF /* CreateAccountViewController.swift */,
 				574A848C1BD8B3B400B029AF /* SignInViewController.swift */,
 				57B3E3921BDADEC3008A017F /* SignInRootViewController.swift */,
+				574A848E1BD8C19600B029AF /* SettingsViewController.swift */,
+				57DD5BCC1BDCD54A000F8017 /* Settings2ViewController.swift */,
+				57DD5BCE1BDCD7BB000F8017 /* ExistingPhotosViewController.swift */,
 			);
 			name = "View Controllers";
 			sourceTree = "<group>";
@@ -122,7 +129,6 @@
 				57C3B6D21BD7780500C930C9 /* AppDelegate.swift */,
 				57C3B6D41BD7780500C930C9 /* ViewController.swift */,
 				57C3B6D61BD7780500C930C9 /* Main.storyboard */,
-				574A848E1BD8C19600B029AF /* SettingsViewController.swift */,
 				57C3B6D91BD7780500C930C9 /* Assets.xcassets */,
 				57C3B6DB1BD7780500C930C9 /* LaunchScreen.storyboard */,
 				57C3B6DE1BD7780500C930C9 /* Info.plist */,
@@ -280,6 +286,8 @@
 			files = (
 				57B3E3911BDADE68008A017F /* CreateAccountRootViewController.swift in Sources */,
 				574A848D1BD8B3B400B029AF /* SignInViewController.swift in Sources */,
+				57DD5BCD1BDCD54A000F8017 /* Settings2ViewController.swift in Sources */,
+				57DD5BCF1BDCD7BB000F8017 /* ExistingPhotosViewController.swift in Sources */,
 				57B3E3931BDADEC3008A017F /* SignInRootViewController.swift in Sources */,
 				574A848B1BD8B36400B029AF /* CreateAccountViewController.swift in Sources */,
 				57C3B6D51BD7780500C930C9 /* ViewController.swift in Sources */,
